@@ -1,0 +1,22 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS files
+.DS_Store
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
